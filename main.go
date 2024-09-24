@@ -1,5 +1,7 @@
 package main
 
-func main() {
+import "task-cli/cmd"
 
+func main() {
+	cmd.Execute()
 }

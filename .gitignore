@@ -26,3 +26,6 @@ go.work.sum
 
 # npm
 node_modules/
+
+# vscode
+.vscode/
